@@ -1,0 +1,16 @@
+# Build directory
+build/**
+
+# Project directories
+proj-*/**
+
+# Config file
+config.lua
+
+# Executables - Because I'm lazy and just shoved the premake executable in the folder.
+*.exe
+*.out
+*.app
+
+# Third party stuff (v8 libs)
+thirdparty/**
